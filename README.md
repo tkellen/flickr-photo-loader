@@ -1,0 +1,1 @@
+a one-file php script for quickly marking up flickr photos
